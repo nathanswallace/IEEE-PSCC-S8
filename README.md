@@ -1,7 +1,7 @@
 # IEEE Std P2658 - Guide for Cybersecurity Testing in Electric Power Systems #
 
 ## Working Group S8 Current Status: ##
-- Project Authorization Request (PAR) Approved till
+- Project Authorization Request (PAR) Approved till December 2022
 - Working on initial outline and writing assignments
 
 ## Scope: ##
